@@ -1,2 +1,0 @@
-import groovy.xml.XmlUti
-def xml = new XmlParser().parseText(testResult) //parsing the testsuite result xml
